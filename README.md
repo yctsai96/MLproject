@@ -1,6 +1,6 @@
- # Income Prediction Project
+ # Income Prediction and Marketing Segmentation Analysis
 
-This project builds machine learning models to predict high-income individuals and performs customer segmentation analysis. The workflow includes data preprocessing, classification modeling, threshold optimization, SHAP interpretation, and clustering.
+This project builds machine learning models to identify high-income individuals and performs customer segmentation for marketing strategy.
 
 ---
 
