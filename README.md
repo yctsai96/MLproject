@@ -8,8 +8,8 @@ This project builds machine learning models to identify high-income individuals 
 
 The objective of this project is to:
 
-(1) Predict whether an individual's income exceeds $50K (classification.ipynb)
-(2) Identify actionable population segments for marketing strategy (segmentation.ipynb)
+1. Predict whether an individual's income exceeds $50K (`classification.ipynb`)
+2. Identify actionable population segments for marketing strategy (`segmentation.ipynb`)
 
 ---
 
