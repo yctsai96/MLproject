@@ -71,3 +71,19 @@ This notebook will:
 - Perform customer clustering (K-Modes)  
 - Profile each segment  
 - Generate business insights
+
+---
+
+### Optional: Run EDA (full preprocessing pipeline)
+
+If you want to reproduce the data cleaning and feature engineering from raw data, run:
+
+`EDA.ipynb`
+
+This notebook performs:
+
+- Data loading and initial quality checks  
+- Missing value handling and data cleaning  
+- Feature engineering and target creation (`income_binary`)  
+- Statistical analysis for numeric and categorical features  
+- Export of the cleaned dataset to `cleaned_df.pkl`  
